@@ -1,0 +1,4 @@
+# requirements
+
+# No external dependencies for a simple Rock, Paper, Scissors game
+
